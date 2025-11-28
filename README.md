@@ -243,7 +243,7 @@ Run notebooks:
 Follow the order in /notebooks.
 
 Run dashboards:
-Open Power BI → Load flight_customer.db or flight_customer.csv.
+Open Power BI → Load correlation_matrix.csv and flight_customer.csv.
 ```
 ---
 # 📬 Contact
