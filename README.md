@@ -208,7 +208,7 @@ Data Analyst — Python | SQL | Power BI
 
 📩 Email: jaylundharris@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/jaylund-harris-571936384/
+🔗 LinkedIn: (https://www.linkedin.com/in/jaylund-harris-571936384/)
 
 💼 GitHub: https://github.com/Jaylundharris
 
