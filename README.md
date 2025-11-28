@@ -199,8 +199,9 @@ Follow the order in /notebooks.
 
 Run dashboards:
 Open Power BI → Load flight_customer.db or flight_customer.csv.
-
-📬 Contact
+```
+---
+### 📬 Contact
 Jaylund Harris
 Data Analyst — Python | SQL | Power BI
 📩 Email: jaylundharris@gmail.com
