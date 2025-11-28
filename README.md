@@ -132,11 +132,14 @@ Validation through:
 
 ---
 
-# 📈 Power BI Dashboards
+# 📊 Power BI Dashboards
 
 Dashboards exported as PNGs in `/dashboards`.
 
-### **Executive Overview**
+---
+
+### 🧭 Executive Overview
+
 - Total customers  
 - Churn rate  
 - Loyal vs disloyal %  
@@ -144,22 +147,64 @@ Dashboards exported as PNGs in `/dashboards`.
 - Delay metrics  
 - Satisfaction donut chart  
 
-### **Customer Satisfaction Breakdown**
+#### 📸 Executive Overview Dashboard
+![Executive Overview](dashboards/Executive_Overview_dashboard.png)
+
+---
+
+### 🙂 Customer Satisfaction Breakdown
+
 - Satisfaction % by gender  
 - Satisfaction % by travel type  
 - Satisfaction % by class  
 
-### **Churn Risk Drivers**
-- Bar charts of avg service ratings  
+#### 📸 Customer Satisfaction Breakdown Dashboard
+![Customer Satisfaction Breakdown](dashboards/Customer_Satisfactin_Breakdown_dashboard.png)
+
+---
+
+### ⚠️ Churn Risk Drivers
+
+- Bar charts of average service ratings  
 - Correlation matrix heatmap  
 - Driver comparisons between satisfied vs dissatisfied groups  
 
-### **Travel & Delay Insights**
+#### 📸 Churn Risk Drivers Dashboard
+![Churn Risk Drivers](dashboards/Churn_Risk_Drivers_dashboard.png)
+
+---
+
+### ✈️ Travel & Delay Insights
+
 - Scatter plots of delay vs satisfaction  
 - Distance vs dissatisfaction  
 
-### **Churn Risk Segmentation**
+#### 📸 Travel & Delay Insights Dashboard
+![Travel & Delay Insights](dashboards/Travel_Delay_Insights.png)
+
+---
+
+### 🔍 Churn Risk Segmentation
+
 - Segmented visualizations across demographic factors  
+
+#### 📸 Churn Risk Segmentation Dashboard
+![Churn Risk Segmentation](dashboards/Churn_Risk_Segmentation_dashboard.png)
+
+---
+
+### 📝 Recommendations
+
+- Actionable recommendations based on churn drivers and customer segments  
+
+#### 📸 Recommendations Dashboard
+![Recommendations](dashboards/Recommedations_Delta_dashboard.png)
+
+---
+
+### 🗂️ Project File
+Power BI workbook:  
+`dashboards/Airline_Customer_Engagement_Loyalty.pbix`
 
 ---
 
