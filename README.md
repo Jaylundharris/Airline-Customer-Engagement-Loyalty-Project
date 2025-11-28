@@ -203,8 +203,12 @@ Open Power BI → Load flight_customer.db or flight_customer.csv.
 ---
 ### 📬 Contact
 Jaylund Harris
+
 Data Analyst — Python | SQL | Power BI
+
 📩 Email: jaylundharris@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/jaylund-harris-571936384/
+
 💼 GitHub: https://github.com/Jaylundharris
 
