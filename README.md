@@ -5,8 +5,9 @@ This project demonstrates real-world data analyst skills including data cleaning
 
 ---
 
-# 📁 Project Structure
 
+# 📁 Project Structure
+```plaintext
 📦 airline-loyalty-analysis
 ├── dashboards/
 │ ├── Executive_Overview_dashboard.png
@@ -36,7 +37,7 @@ This project demonstrates real-world data analyst skills including data cleaning
 │
 ├── README.md
 └── LICENSE
-
+```
 ---
 
 # 🎯 Project Objectives
